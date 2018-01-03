@@ -13,7 +13,7 @@ namespace OffBloom.Client
         {
             InitializeComponent();
 
-            MainPage = new OffBloom.Client.MainPage();
+            MainPage = new NavigationPage(new MainPage());
         }
 
         protected override void OnStart()

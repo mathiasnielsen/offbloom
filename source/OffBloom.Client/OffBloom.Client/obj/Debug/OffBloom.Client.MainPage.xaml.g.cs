@@ -11,8 +11,8 @@
 namespace OffBloom.Client {
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("C:\\Users\\Mathias Kirkegaard\\Desktop\\projects\\offbloom\\source\\OffBloom.Client\\OffB" +
-        "loom.Client\\MainPage.xaml")]
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("/Users/Kirkegaard/Desktop/Projects/OffBloom/source/OffBloom.Client/OffBloom.Clien" +
+        "t/MainPage.xaml")]
     public partial class MainPage : global::Xamarin.Forms.ContentPage {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
