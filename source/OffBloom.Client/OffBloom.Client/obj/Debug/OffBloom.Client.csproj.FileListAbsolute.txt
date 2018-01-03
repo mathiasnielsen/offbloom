@@ -31,3 +31,4 @@ C:/Users/Mathias Kirkegaard/Desktop/projects/offbloom/source/OffBloom.Client/Off
 /Users/Kirkegaard/Desktop/Projects/OffBloom/source/OffBloom.Client/OffBloom.Client/obj/Debug/OffBloom.Client.csprojResolveAssemblyReference.cache
 /Users/Kirkegaard/Desktop/Projects/OffBloom/source/OffBloom.Client/OffBloom.Client/obj/Debug/OffBloom.Client.Features.MainPage.xaml.g.cs
 /Users/Kirkegaard/Desktop/Projects/OffBloom/source/OffBloom.Client/OffBloom.Client/obj/Debug/OffBloom.Client.Features.Common.MasterView.xaml.g.cs
+/Users/Kirkegaard/Desktop/Projects/OffBloom/source/OffBloom.Client/OffBloom.Client/obj/Debug/OffBloom.Client.Features.TourView.xaml.g.cs

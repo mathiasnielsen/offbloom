@@ -14,7 +14,7 @@ namespace OffBloom.Client
         {
             InitializeComponent();
 
-            MainPage = new MasterView(new MainPage());
+            MainPage = new MasterView();
         }
 
         protected override void OnStart()

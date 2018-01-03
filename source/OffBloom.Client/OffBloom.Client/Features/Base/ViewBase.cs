@@ -7,7 +7,7 @@ namespace OffBloom.Client.Features.Base
     {
         public ViewBase()
         {
-            BackgroundColor = (Color)Application.Current.Resources["ContentBackgroundColor"];
+            BackgroundColor = ResourceHelper.GetColor(ResourceHelper.ContentBackgroundColor);
 
             On<Xamarin.Forms.PlatformConfiguration.iOS>().SetUseSafeArea(true);
         }
