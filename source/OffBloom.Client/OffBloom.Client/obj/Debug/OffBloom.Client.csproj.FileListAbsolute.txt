@@ -25,8 +25,9 @@ C:/Users/Mathias Kirkegaard/Desktop/projects/offbloom/source/OffBloom.Client/Off
 /Users/Kirkegaard/Desktop/Projects/OffBloom/source/OffBloom.Client/OffBloom.Client/bin/Debug/Xamarin.Forms.Xaml.dll.mdb
 /Users/Kirkegaard/Desktop/Projects/OffBloom/source/OffBloom.Client/OffBloom.Client/bin/Debug/Xamarin.Forms.Xaml.xml
 /Users/Kirkegaard/Desktop/Projects/OffBloom/source/OffBloom.Client/OffBloom.Client/obj/Debug/OffBloom.Client.csproj.CoreCompileInputs.cache
-/Users/Kirkegaard/Desktop/Projects/OffBloom/source/OffBloom.Client/OffBloom.Client/obj/Debug/OffBloom.Client.MainPage.xaml.g.cs
 /Users/Kirkegaard/Desktop/Projects/OffBloom/source/OffBloom.Client/OffBloom.Client/obj/Debug/OffBloom.Client.App.xaml.g.cs
 /Users/Kirkegaard/Desktop/Projects/OffBloom/source/OffBloom.Client/OffBloom.Client/obj/Debug/OffBloom.Client.dll
 /Users/Kirkegaard/Desktop/Projects/OffBloom/source/OffBloom.Client/OffBloom.Client/obj/Debug/OffBloom.Client.pdb
 /Users/Kirkegaard/Desktop/Projects/OffBloom/source/OffBloom.Client/OffBloom.Client/obj/Debug/OffBloom.Client.csprojResolveAssemblyReference.cache
+/Users/Kirkegaard/Desktop/Projects/OffBloom/source/OffBloom.Client/OffBloom.Client/obj/Debug/OffBloom.Client.Features.MainPage.xaml.g.cs
+/Users/Kirkegaard/Desktop/Projects/OffBloom/source/OffBloom.Client/OffBloom.Client/obj/Debug/OffBloom.Client.Features.Common.MasterView.xaml.g.cs

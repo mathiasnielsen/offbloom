@@ -1,10 +1,93 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 <Application xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="OffBloom.Client.App">
 	<Application.Resources>
 
-		<!-- Application resource dictionary -->
+        <ResourceDictionary>
+            <!-- SIZES -->
+            <OnPlatform x:Key="FormsGridPaddingMedium" x:TypeArguments="Thickness" iOS="20, 20, 20, 20" Android="20, 20, 20, 20" WinPhone="20, 20, 20, 20" />
+            <OnPlatform x:Key="NextControlPadding" x:TypeArguments="Thickness" iOS="0, 20, 0, 0" Android="0, 20, 0, 0" WinPhone="0, 20, 0, 0" />
+            <x:Double x:Key="NextControlSpacing">10</x:Double>
+            <!-- COLORS -->
+            <Color
+                x:Key="White">#FFFFFFFF</Color>
+            <Color
+                x:Key="Grey">#FFC6CAC5</Color>
+            <Color
+                x:Key="BrandColor">#FF2FBB3D</Color>
+            <Color
+                x:Key="DarkBrandColor">#E5C55B</Color>
+            <Color
+                x:Key="DarkAdjacentBrandColor">#FF268A93</Color>
+            <Color
+                x:Key="LightAdjacentBrandColor">#FFA4E038</Color>
+            <Color
+                x:Key="ComplimentaryBrandColor">#FFF1463D</Color>
+            <Color
+                x:Key="DarkTextColor">#FF000000</Color>
+            <Color 
+                x:Key="ContentBackgroundColor">#FECE32</Color>
+            <Color
+                x:Key="DebugColor">#FF00FF00</Color>
+            
+            <!-- Font sizes -->
+            <x:Double
+                x:Key="FontSizeBig">30</x:Double>
+            <x:Double
+                x:Key="FontSizeSmall">10</x:Double>
 
+            <!-- DEFAULT Styles -->
+            <Style
+                x:Key="DefaultLabelStyle"
+                TargetType="Label">
+                <Setter
+                    Property="TextColor"
+                    Value="White"/>
+                <Setter
+                    Property="FontSize"
+                    Value="Medium" />
+            </Style>
+            <Style
+                x:Key="DefaultButtonStyle"
+                TargetType="Button">
+                <Setter
+                    Property="TextColor"
+                    Value="Black"/>
+                <Setter
+                    Property="BackgroundColor"
+                    Value="White"/>
+            </Style>
+            <!-- IMPLICIT STYLES -->
+            <Style
+                TargetType="Label" BasedOn="{StaticResource DefaultLabelStyle}" />
+            <Style
+                TargetType="Button" BasedOn="{StaticResource DefaultButtonStyle}" />
+            <!-- EXPLICIT STYLES -->
+            <Style
+                TargetType="Label"
+                x:Key="TitleStyle"
+                BasedOn="{StaticResource DefaultLabelStyle}">
+                <Setter
+                    Property="FontSize"
+                    Value="Large" />
+            </Style>
+            <Style
+                TargetType="Label"
+                x:Key="SecondaryTitleStyle"
+                BasedOn="{StaticResource DefaultLabelStyle}">
+                <Setter
+                    Property="FontSize"
+                    Value="{StaticResource FontSizeBig}" />
+            </Style>
+            <Style
+                TargetType="Grid"
+                x:Key="FormsGrid">
+                <Setter
+                    Property="Padding"
+                    Value="{StaticResource FormsGridPaddingMedium}" />
+            </Style>
+            
+        </ResourceDictionary>
 	</Application.Resources>
 </Application>

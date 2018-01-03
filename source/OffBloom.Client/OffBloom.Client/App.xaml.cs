@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using OffBloom.Client.Features;
 
 using Xamarin.Forms;
 
@@ -13,7 +14,7 @@ namespace OffBloom.Client
         {
             InitializeComponent();
 
-            MainPage = new NavigationPage(new MainPage());
+            MainPage = new MasterView(new MainPage());
         }
 
         protected override void OnStart()
