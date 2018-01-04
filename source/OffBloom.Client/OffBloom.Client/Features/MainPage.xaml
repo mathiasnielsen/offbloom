@@ -1,15 +1,33 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<local:MainPageBase xmlns="http://xamarin.com/schemas/2014/forms"
-             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-             xmlns:local="clr-namespace:OffBloom.Client.Features"
-             x:Class="OffBloom.Client.Features.MainPage"
-            Title="off bloom">
+<local:MainPageBase 
+    xmlns="http://xamarin.com/schemas/2014/forms"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:local="clr-namespace:OffBloom.Client.Features"
+    x:Class="OffBloom.Client.Features.MainPage"
+    Title="off bloom"
+    xmlns:ffimageloading="clr-namespace:FFImageLoading.Forms;assembly=FFImageLoading.Forms"
+    xmlns:ffimageloadingsvg="clr-namespace:FFImageLoading.Svg.Forms;assembly=FFImageLoading.Svg.Forms">
     <Grid
         Style="{StaticResource FormsGrid}">
 
         <Label 
             Text="Welcome to the official off bloom app"
             HorizontalOptions="Center" />
+
+        <!--
+        <ffimageloading:CachedImage 
+            WidthRequest="100" 
+            HeightRequest="100"
+            DownsampleToViewSize="true" 
+            Source = "http://loremflickr.com/600/600/nature?filename=simple.jpg">
+        </ffimageloading:CachedImage>
+        -->
+
+        <ffimageloadingsvg:SvgCachedImage 
+            WidthRequest="100" 
+            HeightRequest="100"
+            Source = "resource://OffBloom.Client.Resources.offbloom.svg">
+        </ffimageloadingsvg:SvgCachedImage>
         
     </Grid>
 

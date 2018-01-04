@@ -19,7 +19,6 @@ namespace OffBloom.Client
         {
             var navigationPage = new NavigationPage(new MainPage()
             {
-                BackgroundColor = 
             });
 
             // TODO:
