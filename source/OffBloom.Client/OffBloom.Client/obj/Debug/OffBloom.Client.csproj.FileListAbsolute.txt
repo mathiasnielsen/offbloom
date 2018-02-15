@@ -13,37 +13,3 @@ C:/Users/Mathias Kirkegaard/Desktop/projects/offbloom/source/OffBloom.Client/Off
 C:/Users/Mathias Kirkegaard/Desktop/projects/offbloom/source/OffBloom.Client/OffBloom.Client/obj/Debug/OffBloom.Client.App.xaml.g.cs
 C:/Users/Mathias Kirkegaard/Desktop/projects/offbloom/source/OffBloom.Client/OffBloom.Client/obj/Debug/OffBloom.Client.dll
 C:/Users/Mathias Kirkegaard/Desktop/projects/offbloom/source/OffBloom.Client/OffBloom.Client/obj/Debug/OffBloom.Client.pdb
-/Users/Kirkegaard/Desktop/Projects/OffBloom/source/OffBloom.Client/OffBloom.Client/bin/Debug/OffBloom.Client.dll
-/Users/Kirkegaard/Desktop/Projects/OffBloom/source/OffBloom.Client/OffBloom.Client/bin/Debug/OffBloom.Client.pdb
-/Users/Kirkegaard/Desktop/Projects/OffBloom/source/OffBloom.Client/OffBloom.Client/bin/Debug/Xamarin.Forms.Core.dll
-/Users/Kirkegaard/Desktop/Projects/OffBloom/source/OffBloom.Client/OffBloom.Client/bin/Debug/Xamarin.Forms.Platform.dll
-/Users/Kirkegaard/Desktop/Projects/OffBloom/source/OffBloom.Client/OffBloom.Client/bin/Debug/Xamarin.Forms.Xaml.dll
-/Users/Kirkegaard/Desktop/Projects/OffBloom/source/OffBloom.Client/OffBloom.Client/bin/Debug/Xamarin.Forms.Core.pdb
-/Users/Kirkegaard/Desktop/Projects/OffBloom/source/OffBloom.Client/OffBloom.Client/bin/Debug/Xamarin.Forms.Core.dll.mdb
-/Users/Kirkegaard/Desktop/Projects/OffBloom/source/OffBloom.Client/OffBloom.Client/bin/Debug/Xamarin.Forms.Core.xml
-/Users/Kirkegaard/Desktop/Projects/OffBloom/source/OffBloom.Client/OffBloom.Client/bin/Debug/Xamarin.Forms.Xaml.pdb
-/Users/Kirkegaard/Desktop/Projects/OffBloom/source/OffBloom.Client/OffBloom.Client/bin/Debug/Xamarin.Forms.Xaml.dll.mdb
-/Users/Kirkegaard/Desktop/Projects/OffBloom/source/OffBloom.Client/OffBloom.Client/bin/Debug/Xamarin.Forms.Xaml.xml
-/Users/Kirkegaard/Desktop/Projects/OffBloom/source/OffBloom.Client/OffBloom.Client/obj/Debug/OffBloom.Client.csproj.CoreCompileInputs.cache
-/Users/Kirkegaard/Desktop/Projects/OffBloom/source/OffBloom.Client/OffBloom.Client/obj/Debug/OffBloom.Client.App.xaml.g.cs
-/Users/Kirkegaard/Desktop/Projects/OffBloom/source/OffBloom.Client/OffBloom.Client/obj/Debug/OffBloom.Client.dll
-/Users/Kirkegaard/Desktop/Projects/OffBloom/source/OffBloom.Client/OffBloom.Client/obj/Debug/OffBloom.Client.pdb
-/Users/Kirkegaard/Desktop/Projects/OffBloom/source/OffBloom.Client/OffBloom.Client/obj/Debug/OffBloom.Client.csprojResolveAssemblyReference.cache
-/Users/Kirkegaard/Desktop/Projects/OffBloom/source/OffBloom.Client/OffBloom.Client/obj/Debug/OffBloom.Client.Features.MainPage.xaml.g.cs
-/Users/Kirkegaard/Desktop/Projects/OffBloom/source/OffBloom.Client/OffBloom.Client/obj/Debug/OffBloom.Client.Features.Common.MasterView.xaml.g.cs
-/Users/Kirkegaard/Desktop/Projects/OffBloom/source/OffBloom.Client/OffBloom.Client/obj/Debug/OffBloom.Client.Features.TourView.xaml.g.cs
-/Users/Kirkegaard/Desktop/Projects/OffBloom/source/OffBloom.Client/OffBloom.Client/bin/Debug/FFImageLoading.dll
-/Users/Kirkegaard/Desktop/Projects/OffBloom/source/OffBloom.Client/OffBloom.Client/bin/Debug/FFImageLoading.Platform.dll
-/Users/Kirkegaard/Desktop/Projects/OffBloom/source/OffBloom.Client/OffBloom.Client/bin/Debug/SkiaSharp.dll
-/Users/Kirkegaard/Desktop/Projects/OffBloom/source/OffBloom.Client/OffBloom.Client/bin/Debug/SkiaSharp.xml
-/Users/Kirkegaard/Desktop/Projects/OffBloom/source/OffBloom.Client/OffBloom.Client/bin/Debug/FFImageLoading.pdb
-/Users/Kirkegaard/Desktop/Projects/OffBloom/source/OffBloom.Client/OffBloom.Client/bin/Debug/FFImageLoading.xml
-/Users/Kirkegaard/Desktop/Projects/OffBloom/source/OffBloom.Client/OffBloom.Client/bin/Debug/FFImageLoading.Platform.xml
-/Users/Kirkegaard/Desktop/Projects/OffBloom/source/OffBloom.Client/OffBloom.Client/bin/Debug/FFImageLoading.Forms.dll
-/Users/Kirkegaard/Desktop/Projects/OffBloom/source/OffBloom.Client/OffBloom.Client/bin/Debug/SkiaSharp.Views.Forms.dll
-/Users/Kirkegaard/Desktop/Projects/OffBloom/source/OffBloom.Client/OffBloom.Client/bin/Debug/FFImageLoading.Forms.pdb
-/Users/Kirkegaard/Desktop/Projects/OffBloom/source/OffBloom.Client/OffBloom.Client/bin/Debug/FFImageLoading.Forms.xml
-/Users/Kirkegaard/Desktop/Projects/OffBloom/source/OffBloom.Client/OffBloom.Client/bin/Debug/FFImageLoading.Svg.Forms.dll
-/Users/Kirkegaard/Desktop/Projects/OffBloom/source/OffBloom.Client/OffBloom.Client/bin/Debug/FFImageLoading.Svg.Platform.dll
-/Users/Kirkegaard/Desktop/Projects/OffBloom/source/OffBloom.Client/OffBloom.Client/bin/Debug/FFImageLoading.Svg.Platform.xml
-/Users/Kirkegaard/Desktop/Projects/OffBloom/source/OffBloom.Client/OffBloom.Client/bin/Debug/FFImageLoading.Svg.Forms.xml
