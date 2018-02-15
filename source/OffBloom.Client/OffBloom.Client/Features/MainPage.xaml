@@ -13,6 +13,8 @@
                 Height="auto"/>
             <RowDefinition
                 Height="*"/>
+            <RowDefinition
+                Height="auto"/>
         </Grid.RowDefinitions>
 
         <ffimageloadingsvg:SvgCachedImage 
@@ -26,6 +28,13 @@
             VerticalOptions="Center"
             Text="Welcome to the official off bloom app"
             HorizontalOptions="Center" />
+
+        <Button
+            Grid.Row="2"
+            x:Name="btn_soundcloud"
+            VerticalOptions="Center"
+            HorizontalOptions="FillAndExpand"
+            Text="Go to SoundCloud"/>
     
     </Grid>
 
